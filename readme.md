@@ -134,7 +134,7 @@ Você é um especialista personal trainer e vai criar um treino ideal baseado na
 {{periodização}}
 {{treino}}
 
-# Guidelines
+#Guidelines
 
 Regra 1: Biotipo corporal
 identificar qual o tipo informado na variável biotipo será um dos itens abaixo:
